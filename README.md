@@ -1,1 +1,2 @@
-Hello World 1.0!
+Hello World!
+This is an amazing repository!
